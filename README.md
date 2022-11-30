@@ -1,5 +1,8 @@
 # Mini_Python_Project
 
+For QA training course 'Core Programme' via Avanade's VelocITy graduate programme
+---------------------------------------------------------------------------------
+
 GitBash Restaurant offers users the chance to order their favourite Python foods through the terminal (GitBash preferred).
 
 Customers are prompted to enter their name, and are then provided with the 4 main options available to them:
